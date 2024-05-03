@@ -1,0 +1,13 @@
+{
+  "runtimeOptions": {
+    "tfm": "net8.0",
+    "additionalProbingPaths": [
+      "C:\\Users\\Lenovo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Lenovo\\.nuget\\packages",
+      "D:\\vsobs\\NuGetPackages"
+    ],
+    "configProperties": {
+      "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
+    }
+  }
+}
